@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: tomato;
+    padding: 10px;
+    color: white;
+    border-radius: 15px;
+}
+
+h1{
+    color: rosybrown;
+    border: 1px solid gray;
+    text-align:center;
+    border-radius: 15px ;
+}
+
+footer p{
+    background-color:lime;
+    font-size: 20px;
+}
+
+nav a{
+    color: gray;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+nav{
+    padding: 5px;
+    border: 1px solid gray;
+}
+
+.tyo {
+padding: 10px;
+background-color: greenyellow;
+
+}
+
+
+h2 {
+font-size: 30px;
+
+color: blue;
+
+
+
+
+}
+p a {
+
+text-decoration: none;
+ border: 5px solid blue;
+}
